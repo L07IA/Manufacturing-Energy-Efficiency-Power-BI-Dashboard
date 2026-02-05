@@ -31,7 +31,7 @@ The objective is to identify inefficiency drivers and quantify their impact.
 - Business Intelligence Best Practices
 
   ### Executive Dashboard
-![Executive](Images/Executive.png)
+![Executive](images/Executive.png)
 
 ### Analytics Dashboard
 ![Analytics](images/Analytics.png)

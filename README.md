@@ -31,7 +31,7 @@ The objective is to identify inefficiency drivers and quantify their impact.
 - Business Intelligence Best Practices
 
   ### Executive Dashboard
-![Executive](Manufacturing-Energy-Efficiency-Power-BI-Dashboard/images/Executive.png at main · L07IA/Manufacturing-Energy-Efficiency-Power-BI-Dashboard)
+![Executive](Imágenes/Executive.png)
 
 ### Analytics Dashboard
 ![Analytics](Manufacturing-Energy-Efficiency-Power-BI-Dashboard/images/Analytics.png at main · L07IA/Manufacturing-Energy-Efficiency-Power-BI-Dashboard)

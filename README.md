@@ -31,9 +31,9 @@ The objective is to identify inefficiency drivers and quantify their impact.
 - Business Intelligence Best Practices
 
   ### Executive Dashboard
-![Executive](https://raw.githubusercontent.com/L07IA/Superstore-powerbi-dashboard/main/screenshots/01-executive.png)
+![Executive](Manufacturing-Energy-Efficiency-Power-BI-Dashboard/images/Executive.png at main · L07IA/Manufacturing-Energy-Efficiency-Power-BI-Dashboard)
 
 ### Analytics Dashboard
-![Analytics](https://raw.githubusercontent.com/L07IA/Superstore-powerbi-dashboard/main/screenshots/02-analytics.png)
+![Analytics](Manufacturing-Energy-Efficiency-Power-BI-Dashboard/images/Analytics.png at main · L07IA/Manufacturing-Energy-Efficiency-Power-BI-Dashboard)
 
 

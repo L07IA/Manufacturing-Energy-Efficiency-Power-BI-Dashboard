@@ -34,6 +34,6 @@ The objective is to identify inefficiency drivers and quantify their impact.
 ![Executive](Imágenes/Executive.png)
 
 ### Analytics Dashboard
-![Analytics]([Manufacturing-Energy-Efficiency-Power-BI-Dashboard/images/Analytics.png at main · L07IA/Manufacturing-Energy-Efficiency-Power-BI-Dashboard](https://raw.githubusercontent.com/L07IA/Manufacturing-Energy-Efficiency-Power-BI-Dashboard/main/images/Analytics.png))
+![Analytics](images/Analytics.png)
 
 
